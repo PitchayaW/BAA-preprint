@@ -179,6 +179,7 @@ If you refer to this work before the final journal article becomes available, pl
   note = {Author preprint, Version 1.0. Manuscript submitted to IEEE for possible publication},
   url = {https://github.com/pitchayaw/baa-preprint}
 }
+```
 
 When a peer-reviewed version becomes available, please cite the final journal publication instead of this preprint.
 
