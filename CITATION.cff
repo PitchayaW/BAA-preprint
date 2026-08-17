@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint below."
+
+title: "HiDA-BAA"
+authors:
+  - family-names: "Wiratchotisatian"
+    given-names: "Pitchaya"
+
+repository-code: "<GitHub repository URL>"
+
+preferred-citation:
+  type: article
+  title: "Beyond Benchmark Accuracy: Hierarchical Transfer Learning and ROI Standardization for Bone Age Assessment in Thai Children"
+  authors:
+    - family-names: "Wiratchotisatian"
+      given-names: "Pitchaya"
+    - family-names: "Tangprasert"
+      given-names: "Khwankaow"
+    - family-names: "Paisarnsrisomsuk"
+      given-names: "Sarun"
+    - family-names: "Hanpinitsak"
+      given-names: "Panawit"
+    - family-names: "Chaisiwamongkol"
+      given-names: "Wichuda"
+    - family-names: "Chaisiwamongkol"
+      given-names: "Ratikorn"
+    - family-names: "Tewattanarat"
+      given-names: "Nipaporn"
+    - family-names: "Poonpol"
+      given-names: "Chanakarn"
+    - family-names: "Pansukrada"
+      given-names: "Chatparin"
+    - family-names: "Thaowandee"
+      given-names: "Wilairat"
+  year: 2026
+  month: 8
+  url: "<GitHub release URL>"
