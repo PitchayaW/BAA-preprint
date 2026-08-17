@@ -6,7 +6,7 @@ authors:
   - family-names: "Wiratchotisatian"
     given-names: "Pitchaya"
 
-repository-code: "<GitHub repository URL>"
+repository-code: "https://github.com/PitchayaW/BAA-preprint"
 
 preferred-citation:
   type: article
@@ -34,4 +34,4 @@ preferred-citation:
       given-names: "Wilairat"
   year: 2026
   month: 8
-  url: "<GitHub release URL>"
+  url: "..."
