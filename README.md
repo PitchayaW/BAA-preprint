@@ -179,3 +179,45 @@ If you refer to this work before the final journal article becomes available, pl
   note = {Author preprint, Version 1.0. Manuscript submitted to IEEE for possible publication},
   url = {https://github.com/pitchayaw/baa-preprint}
 }
+
+When a peer-reviewed version becomes available, please cite the final journal publication instead of this preprint.
+
+## Data and Resources
+The study uses public bone-age datasets together with a retrospective clinical cohort from Khon Kaen University.
+Public datasets used in the study include:
+- RSNA Pediatric Bone Age Challenge dataset
+- Digital Hand Atlas (DHA)
+The Thai clinical data used in this study contain protected medical information and are subject to institutional ethics, privacy, and data-governance requirements. Their inclusion in the study does not imply that the original clinical radiographs are publicly redistributable.
+
+## Publicly shareable preprocessing resources are linked through:
+https://github.com/Khao0/HandXRay-Preprocessing
+
+## Ethics
+The retrospective clinical component of the study was approved by the Research Ethics Committee of the Faculty of Medicine, Khon Kaen University.
+Protocol: HE674010
+The requirement for informed consent was waived because the study used retrospective, anonymized clinical data.
+
+## Funding
+This research was supported by the Digital Economy and Society Fund, Thailand
+Grant No. PR66010158.
+
+## Important Notice
+The PDF in this repository is an author preprint.
+It is not the final IEEE-published article and should not be described as:
+- accepted,
+- in press,
+- forthcoming,
+- published by IEEE, or
+- peer reviewed by IEEE
+unless and until such status is formally confirmed by the publisher.
+
+The software repositories linked above have their own software licenses. Those licenses should not be interpreted as applying automatically to the manuscript PDF contained in this repository.
+
+Contact
+For correspondence concerning the manuscript:
+Panawit Hanpinitsak
+Department of Computer Engineering
+Faculty of Engineering
+Khon Kaen University
+Khon Kaen 40002, Thailand
+Email: panaha@kku.ac.th
